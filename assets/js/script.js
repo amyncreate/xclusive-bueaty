@@ -8,7 +8,7 @@
   document.documentElement.classList.remove('no-js');
 
   /* -------------------- Config -------------------- */
-  var WHATSAPP_NUMBER = '2348000000000'; // TODO: replace with real WhatsApp number (international format, no + or 0 leading)
+  var WHATSAPP_NUMBER = '2349039092831'; // TODO: replace with real WhatsApp number (international format, no + or 0 leading)
 
   function waLink(message) {
     return 'https://wa.me/' + WHATSAPP_NUMBER + '?text=' + encodeURIComponent(message);
